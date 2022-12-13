@@ -1,6 +1,8 @@
 # back4app-mobile
 
-This repository contains additional resources for the "How to build a backend for a mobile app?" Back4app article.
+This repository contains additional resources for "How to build a backend for a mobile app?" Back4app article.
+
+You can read the article [here](http://duplxey.com).
 
 ## Importing data
 
