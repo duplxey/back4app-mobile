@@ -1,0 +1,20 @@
+{
+"results" : [
+
+  {
+    "objectId": "UZ76K07znv",
+    "username": "editor",
+    "createdAt": "2022-12-13T09:01:13.475Z",
+    "updatedAt": "2022-12-13T09:01:13.475Z",
+    "ACL": {
+      "*": {
+        "read": true
+      },
+      "UZ76K07znv": {
+        "read": true,
+        "write": true
+      }
+    }
+  }
+]
+}

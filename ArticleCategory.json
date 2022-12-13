@@ -1,0 +1,49 @@
+{
+"results" : [
+
+  {
+    "objectId": "BZ6v8G9LH0",
+    "name": "Business",
+    "author": {
+      "__type": "Pointer",
+      "className": "_User",
+      "objectId": "UZ76K07znv"
+    },
+    "createdAt": "2022-12-13T09:02:31.517Z",
+    "updatedAt": "2022-12-13T09:02:31.517Z"
+  },
+  {
+    "objectId": "Jp7ZoGMZCP",
+    "name": "Sports",
+    "author": {
+      "__type": "Pointer",
+      "className": "_User",
+      "objectId": "UZ76K07znv"
+    },
+    "createdAt": "2022-12-13T09:02:40.887Z",
+    "updatedAt": "2022-12-13T09:02:40.887Z"
+  },
+  {
+    "objectId": "FYxzrBlCBC",
+    "name": "Voting",
+    "author": {
+      "__type": "Pointer",
+      "className": "_User",
+      "objectId": "UZ76K07znv"
+    },
+    "createdAt": "2022-12-13T09:02:59.465Z",
+    "updatedAt": "2022-12-13T09:02:59.465Z"
+  },
+  {
+    "objectId": "i6WfyAwdTG",
+    "name": "Arts",
+    "author": {
+      "__type": "Pointer",
+      "className": "_User",
+      "objectId": "UZ76K07znv"
+    },
+    "createdAt": "2022-12-13T09:03:17.232Z",
+    "updatedAt": "2022-12-13T09:03:17.232Z"
+  }
+]
+}

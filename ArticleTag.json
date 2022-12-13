@@ -1,0 +1,49 @@
+{
+"results" : [
+
+  {
+    "objectId": "WK4Kq7V9Gr",
+    "author": {
+      "__type": "Pointer",
+      "className": "_User",
+      "objectId": "UZ76K07znv"
+    },
+    "name": "beauty",
+    "createdAt": "2022-12-13T09:03:31.239Z",
+    "updatedAt": "2022-12-13T09:03:31.239Z"
+  },
+  {
+    "objectId": "mrT5E2i4k2",
+    "name": "science",
+    "author": {
+      "__type": "Pointer",
+      "className": "_User",
+      "objectId": "UZ76K07znv"
+    },
+    "createdAt": "2022-12-13T09:03:39.268Z",
+    "updatedAt": "2022-12-13T09:03:39.268Z"
+  },
+  {
+    "objectId": "JT4cTmZIOW",
+    "name": "breakingnews",
+    "author": {
+      "__type": "Pointer",
+      "className": "_User",
+      "objectId": "UZ76K07znv"
+    },
+    "createdAt": "2022-12-13T09:03:48.307Z",
+    "updatedAt": "2022-12-13T09:03:48.307Z"
+  },
+  {
+    "objectId": "tkaOKKvHZc",
+    "name": "worldrecord",
+    "author": {
+      "__type": "Pointer",
+      "className": "_User",
+      "objectId": "UZ76K07znv"
+    },
+    "createdAt": "2022-12-13T09:03:57.162Z",
+    "updatedAt": "2022-12-13T09:03:57.162Z"
+  }
+]
+}
